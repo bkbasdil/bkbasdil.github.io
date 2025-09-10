@@ -11,15 +11,15 @@ main:
 
   - title: "CV"
     url: /cv/
-       children:
-      - title: "Industrial Location in Turkey"
-        url: /pages/research/industrial-location/
 
   - title: "Research"
     url: /pages/research/
-    
+    children:
+      - title: "Industrial Location in Turkey"
+        url: /pages/research/industrial-location/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Blog"
-    url: /blog/    
+    url: /blog/
