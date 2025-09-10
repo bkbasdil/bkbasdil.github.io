@@ -13,10 +13,10 @@ main:
     url: /cv/
        children:
       - title: "Industrial Location in Turkey"
-        url: /research/industrial-location/
+        url: /pages/research/industrial-location/
 
   - title: "Research"
-    url: /research/
+    url: /pages/research/
     
   - title: "Publications"
     url: /publications/
