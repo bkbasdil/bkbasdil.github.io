@@ -3,11 +3,11 @@ title: "Mass Reproducibility and Replicability: A New Hope"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-01-reproduction
-excerpt: 'with Abel Brodeur et al.'
+excerpt: 'with Abel Brodeur *et al.*'
 date: '2024-04-01'
 venue: 'IZA Discussion Papers'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Brodeur, A. (2024). "Mass Reproducibility and Replicability: A New Hope." <i>IZA Discussion Papers</i>. 16912.'
+bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Brodeur, A. *et al.* (2024). "Mass Reproducibility and Replicability: A New Hope." <i>IZA Discussion Papers</i>. 16912.'
 ---
