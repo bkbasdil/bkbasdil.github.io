@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **M.A. in Economics**, Toulouse School of Economics, 2023
-* **B.A. in Economics**, Bogazici University, 2012
+* **B.A. in Economics**, Bogazici University, 2021
 
 Publications
 ======
