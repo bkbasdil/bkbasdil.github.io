@@ -10,7 +10,7 @@
 main:
 
   - title: "CV"
-    url: /cv-md/
+    url: /cv/
 
   - title: "Research"
     url: /research/
