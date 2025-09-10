@@ -20,32 +20,39 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
-Work experience
+Academic Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Industrial Location in Turkey, 1927–2020
+  * Co-Author — Gunes Asik, Alpay Filiztekin, Ulas Karakoc (Dormant, 2025)
+  * Link: https://sites.google.com/view/bkbasdil/industrial-location
+  * Digitized and cleaned archival city-level data on Turkish industrial establishments
+  * Conducted preliminary spatial analysis (e.g., Moran's I, beta convergence)
+  * Built structural entry models using city characteristics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Regional Inequalities and the West–East Divide in Turkey Since 1913
+  * Research Assistant — Gunes Asik, Ulas Karakoc, Sevket Pamuk (Economic History Review) (2021)
+  * Link: https://onlinelibrary.wiley.com/doi/10.1111/ehr.13245
+  * Digitized historical industrial data from yearbooks and archives
+  * Constructed long-run datasets for around 60 cities
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching Assistant — Bogazici University (2018 – 2020)
+  * Courses: Introduction to Microeconomics, Micro I, Macro I, Mathematical Statistics I
+  * Led weekly sessions and graded assignments
 
+Professional Experience
+======
+* Asset and Liability Management Analyst, Risktürk - Istanbul, Turkey (2025 – Ongoing)
+* Associate Consultant, Mastercard - Istanbul, Turkey (2023 – 2024)
+* Consultant, Ernst & Young (EY) - Istanbul, Turkey (2022 – 2023)
+  
+Miscellaneous
+======
+* Methods: Instrumental Variables, Panel Models, Limited Dependent Variables, Machine Learning 
+* Tools: Stata, R, Python, SQL, LaTeX 
+* Languages: Turkish (native), English (fluent)
+* Research Interests: Regional development, industrialization, political economy
+* Examinations: TOEFL: 114/120 (R: 27, L: 29, S: 28, W: 30) GRE: 161 Verbal, 162 Quant, 5.0 AW
 
 
