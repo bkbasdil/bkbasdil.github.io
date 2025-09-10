@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.A. in Economics, Toulouse School of Economics, 2023
-* B.A. in Economics, Bogazici University, 2012
+* **M.A. in Economics**, Toulouse School of Economics, 2023
+* **B.A. in Economics**, Bogazici University, 2012
 
 Publications
 ======
@@ -22,16 +22,14 @@ Publications
 
 Academic Experience
 ======
-* Industrial Location in Turkey, 1927–2020
+* **Industrial Location in Turkey, 1927–2020**
   * Co-Author — Gunes Asik, Alpay Filiztekin, Ulas Karakoc (Dormant, 2025)
-  * Link: https://sites.google.com/view/bkbasdil/industrial-location
   * Digitized and cleaned archival city-level data on Turkish industrial establishments
   * Conducted preliminary spatial analysis (e.g., Moran's I, beta convergence)
   * Built structural entry models using city characteristics
 
-* Regional Inequalities and the West–East Divide in Turkey Since 1913
+* [Regional Inequalities and the West–East Divide in Turkey Since 1913](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13245)
   * Research Assistant — Gunes Asik, Ulas Karakoc, Sevket Pamuk (Economic History Review) (2021)
-  * Link: https://onlinelibrary.wiley.com/doi/10.1111/ehr.13245
   * Digitized historical industrial data from yearbooks and archives
   * Constructed long-run datasets for around 60 cities
 
@@ -43,16 +41,16 @@ Teaching Experience
 
 Professional Experience
 ======
-* Asset and Liability Management Analyst, Risktürk - Istanbul, Turkey (2025 – Ongoing)
-* Associate Consultant, Mastercard - Istanbul, Turkey (2023 – 2024)
-* Consultant, Ernst & Young (EY) - Istanbul, Turkey (2022 – 2023)
+* **Asset and Liability Management Analyst**, Risktürk - Istanbul, Turkey (2025 – Ongoing)
+* **Associate Consultant**, Mastercard - Istanbul, Turkey (2023 – 2024)
+* **Consultant**, Ernst & Young (EY) - Istanbul, Turkey (2022 – 2023)
   
 Miscellaneous
 ======
-* Methods: Instrumental Variables, Panel Models, Limited Dependent Variables, Machine Learning 
-* Tools: Stata, R, Python, SQL, LaTeX 
-* Languages: Turkish (native), English (fluent)
-* Research Interests: Regional development, industrialization, political economy
-* Examinations: TOEFL: 114/120 (R: 27, L: 29, S: 28, W: 30) GRE: 161 Verbal, 162 Quant, 5.0 AW
+* **Methods:** Instrumental Variables, Panel Models, Limited Dependent Variables, Machine Learning 
+* **Tools:** Stata, R, Python, SQL, LaTeX 
+* **Languages:** Turkish (native), English (fluent)
+* **Research Interests:** Regional development, industrialization, political economy
+* **Examinations:** TOEFL: 114/120 (R: 27, L: 29, S: 28, W: 30) GRE: 161 Verbal, 162 Quant, 5.0 AW
 
 
