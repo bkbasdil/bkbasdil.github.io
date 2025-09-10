@@ -28,14 +28,14 @@ Academic Experience
   * Conducted preliminary spatial analysis (e.g., Moran's I, beta convergence)
   * Built structural entry models using city characteristics
 
-* [Regional Inequalities and the West–East Divide in Turkey Since 1913](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13245)
+* [**Regional Inequalities and the West–East Divide in Turkey Since 1913**](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13245)
   * Research Assistant — Gunes Asik, Ulas Karakoc, Sevket Pamuk (Economic History Review) (2021)
   * Digitized historical industrial data from yearbooks and archives
   * Constructed long-run datasets for around 60 cities
 
 Teaching Experience
 ======
-* Teaching Assistant — Bogazici University (2018 – 2020)
+* **Teaching Assistant** — Bogazici University (2018 – 2020)
   * Courses: Introduction to Microeconomics, Micro I, Macro I, Mathematical Statistics I
   * Led weekly sessions and graded assignments
 
