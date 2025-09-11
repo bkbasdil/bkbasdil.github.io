@@ -25,7 +25,7 @@ Publications
 
 Academic Experience
 ======
-* [**Industrial Location in Turkey, 1927–2020**](https://bkbasdil.github.io/research/industrial-location/)
+* **Industrial Location in Turkey, 1927–2020**
   * Co-Author — Gunes Asik, Alpay Filiztekin, Ulas Karakoc (Dormant, 2025)
   * Digitized and cleaned archival city-level data on Turkish industrial establishments
   * Conducted preliminary spatial analysis (e.g., Moran's I, beta convergence)
