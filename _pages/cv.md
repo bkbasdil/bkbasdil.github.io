@@ -17,13 +17,12 @@ Education
 Publications
 ======
 
-{% include base_path %}
-
-<ul>
+<div style="margin-top: -0.5em;">
 {% for post in site.publications reversed %}
-  <li>{% include archive-single-cv.html %}</li>
+  {% include archive-single-cv.html %}
 {% endfor %}
-</ul>
+</div>
+
 
 Academic Experience
 ======
