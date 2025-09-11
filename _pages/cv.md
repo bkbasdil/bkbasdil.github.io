@@ -17,7 +17,7 @@ Education
 Publications
 ======
 
-<div style="margin-top: -0.5em;">
+
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
