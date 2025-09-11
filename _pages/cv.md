@@ -54,7 +54,7 @@ Professional Experience
 Miscellaneous
 ======
 * **Methods:** Instrumental Variables, Panel Models, Limited Dependent Variables, Machine Learning 
-* **Tools:** Stata, R, Python, SQL, LaTeX 
+* **Tools:** R, STATA, Python, SQL, LaTeX 
 * **Languages:** Turkish (native), English (fluent)
 * **Research Interests:** Regional development, industrialization, political economy
 * **Examinations:** TOEFL: 114/120 (R: 27, L: 29, S: 28, W: 30) GRE: 161 Verbal, 162 Quant, 5.0 AW
