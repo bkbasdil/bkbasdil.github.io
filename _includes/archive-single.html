@@ -14,7 +14,8 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
+
+    <!-- Optional teaser image for grid view -->
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -27,12 +28,7 @@
       </div>
     {% endif %}
 
-    <!-- AUTHOR -->
-    {% if post.author %}
-      <p class="archive__item-author"><strong>Author:</strong> {{ post.author }}</p>
-    {% endif %}
-
-    <!-- TITLE -->
+    <!-- Title -->
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> 
@@ -45,29 +41,41 @@
       {% endif %}
     </h2>
 
-    <!-- VENUE AND DATE -->
+    <!-- Author -->
+    {% if post.author %}
+      <p class="archive__item-author"><strong>Author:</strong> {{ post.author }}</p>
+    {% endif %}
+
+    <!-- Venue and Year -->
     {% if post.collection == 'publications' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+    {% elsif post.collection == 'teaching' %}
+      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.date %}
       <p class="page__date">
-        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> 
-        <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
-          {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
-        </time>
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
+        <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
       </p>
     {% endif %}
 
-    <!-- CITATION / DOWNLOAD LINKS -->
-    {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }}
-      {% if post.paperurl %}<br><a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
-      {% if post.slidesurl %} | <a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
-      {% if post.bibtexurl %} | <a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
-      </p>
-    {% endif %}
-
-    {% if post.excerpt %}
+    <!-- Excerpt -->
+    {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+      </p>
+    {% endif %}
+
+    <!-- Citation and download links -->
+    {% if post.citation or post.paperurl or post.slidesurl or post.bibtexurl %}
+      <p>
+        {% if post.citation %}Recommended citation: {{ post.citation }}<br />{% endif %}
+        {% if post.paperurl %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
+        {% if post.slidesurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
+        {% if post.bibtexurl %}{% if post.paperurl or post.slidesurl %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
+      </p>
     {% endif %}
 
   </article>
