@@ -37,7 +37,7 @@ author_profile: true
 
 <!-- Night lights plot embedded between paragraphs -->
 <div style="text-align:center; margin:50px 0;">
-  <img src="/images/turkey-night-lights.png" 
+  <img src="/images/turkey-night-lights.jpeg" 
        alt="Night lights distribution in Turkey" 
        style="width:80%; border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size:0.9em; margin-top:5px;"><em>
