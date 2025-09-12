@@ -29,31 +29,22 @@
 
       <h3 class="archive__item-title" itemprop="headline">
         {% if post.link %}
-          <!-- Title links to external paper -->
-          <a href="{{ post.link }}" target="_blank" rel="noopener">{{ title }}</a>
-          {% if post.url %}
-            <!-- Permalink icon points to local markdown page -->
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-              <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
-              <span class="sr-only">Permalink</span>
-            </a>
-          {% endif %}
+          <a href="{{ post.link }}" target="_blank">{{ title }}</a>
         {% else %}
-          <!-- Title links to local markdown if no external link -->
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       </h3>
 
+      {% if post.status %}
+        <p class="archive__item-status" style="font-style: italic; font-size:0.9em;">{{ post.status }}</p>
+      {% endif %}
+
       {% if post.venue %}
-        <p class="archive__item-excerpt" itemprop="description">
-          {{ post.citation }}
-        </p>
+        <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
       {% endif %}
 
       {% if post.read_time %}
-        <p class="page__meta">
-          <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
-        </p>
+        <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
     </li>
   </article>
