@@ -21,7 +21,7 @@ The second essay aims at <strong>measuring the impact of the Project on district
 
 <!-- Image -->
 <div style="overflow:hidden; border-radius:6px; margin: 30px 0;">
-  <img src="{{ '/images/themes/turkey-night-lights.jpeg' | relative_url }}" 
+  <img src="{{ '/images/turkey-night-lights.jpeg' | relative_url }}" 
        alt="District-Level Distribution of Night Lights, 1992" 
        style="width:100%; height:300px; object-fit:cover; object-position:center;">
   <p style="font-size:0.9em; margin-top:5px; text-align:center;"><em>
