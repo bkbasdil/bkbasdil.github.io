@@ -14,7 +14,7 @@ author_profile: true
     Photo credit: Baris Kaan Basdil.</em></p>
   </div>
   <div style="flex:2;">
-    <p>"...near things are more related than distant things" - from Tobler's first law of geography.
+    <p> "...near things are more related than distant things" - from Tobler's first law of geography.
 Although recent work has shed light on the extent of regional inequality in Turkey, there is limited understanding on the distribution of and changes in industrial activity over time. By understanding where and why industrial activity emerges, it is possible to pursue place-based policies aiming at fostering economic activity and mediating regional inequality.
 This study aims at understanding the distribution of industrial activity in Turkey since 1927. The study utilizes a rich historical dataset of manufacturing censuses and surveys, covering the number of industrial establishments, number of workers employed (paid or unpaid), inputs and outputs per firm, energy consumption, and so on. The study will strive to identify how industrial location is driven by market potential, endowments (proximity to land, energy sources, human capital), state factories and fiscal incentives.</p>
   </div>
@@ -23,7 +23,7 @@ This study aims at understanding the distribution of industrial activity in Turk
 <!-- Second image + paragraph -->
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="flex:1; max-width:40%;">
-    <img src="/images/industrial-workers-map.jpg" alt="Industrial Workers Map 1927" style="max-width:100%; height:auto;">
+    <img src="/images/industrial-workers-map.jpeg" alt="Industrial Workers Map 1927" style="max-width:100%; height:auto;">
     <p><em>Distribution of industrial workers in Turkey in 1927 (Preliminary).</em></p>
   </div>
   <div style="flex:2;">
