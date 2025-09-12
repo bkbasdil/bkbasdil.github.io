@@ -12,4 +12,6 @@ I am interested in **development economics**. I have worked on projects concerni
 
 For the R and STATA **codes for some of my graduate projects**, you can visit my [GitHub profile](https://github.com/bkbasdil).
 
-Feel free to connect with me via [kaanbasdil@gmail.com](mailto:kaanbasdil@gmail.com). 
+Feel free to connect with me via [kaanbasdil@gmail.com](mailto:kaanbasdil@gmail.com)
+
+<sup><sub> Credit for my profile picture: [Defne Sönmezışık](https://www.instagram.com/defnenin.filmrulosu/).<sub><sup>
