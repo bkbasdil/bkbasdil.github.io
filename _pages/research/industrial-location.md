@@ -15,6 +15,7 @@ author_profile: true
   </div>
   <div style="flex:2;">
     <p> "...near things are more related than distant things" - from Tobler's first law of geography.
+      
 Although recent work has shed light on the extent of regional inequality in Turkey, there is **limited understanding on the distribution of and changes in industrial activity** over time. By understanding where and why industrial activity emerges, it is possible to pursue place-based policies aiming at fostering economic activity and mediating regional inequality.
 This study **aims at understanding the distribution of industrial activity in Turkey since 1927**. The study utilizes a rich historical dataset of manufacturing censuses and surveys, covering the number of industrial establishments, number of workers employed (paid or unpaid), inputs and outputs per firm, energy consumption, and so on. The study will strive to identify how industrial location is driven by market potential, endowments (proximity to land, energy sources, human capital), state factories and fiscal incentives.</p>
   </div>
