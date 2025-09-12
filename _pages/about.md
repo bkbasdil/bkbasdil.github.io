@@ -10,6 +10,6 @@ Welcome to my (new) academic webpage (work in progress)! I am an **economist**, 
 
 I am interested in **development economics**. I have worked on projects concerning industrialization, regional development, and consequences of education reform. My current work aims at understanding **economic roots of ethnic tensions** in Turkey and evaluating related policy interventions. You can find further information about my background and research through relevant pages.
 
-For the R and STATA **codes for some of my graduate projects**, feel free to visit my [GitHub profile](https://github.com/bkbasdil).
+For the R and STATA **codes for some of my graduate projects**, you can visit my [GitHub profile](https://github.com/bkbasdil).
 
 Feel free to connect with me via [kaanbasdil@gmail.com](mailto:kaanbasdil@gmail.com). 
