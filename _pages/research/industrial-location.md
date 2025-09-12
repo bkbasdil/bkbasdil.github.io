@@ -9,7 +9,7 @@ author_profile: true
 <!-- First image + paragraph -->
 <div style="display:flex; align-items:flex-start; gap:20px; margin-bottom:30px;">
   <div style="flex:1; max-width:40%;">
-    <img src="/assets/images/soil-products-office.jpg" alt="Soil Products Office" style="max-width:100%; height:auto;">
+    <img src="/images/soil-products-office.jpg" alt="Soil Products Office" style="max-width:100%; height:auto;">
     <p><em>Soil Products Office, near Port Haydarpaşa, Istanbul.<br>
     Photo credit: Baris Kaan Basdil.</em></p>
   </div>
@@ -23,7 +23,7 @@ This study aims at understanding the distribution of industrial activity in Turk
 <!-- Second image + paragraph -->
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="flex:1; max-width:40%;">
-    <img src="/assets/images/industrial-workers-map.jpg" alt="Industrial Workers Map 1927" style="max-width:100%; height:auto;">
+    <img src="/images/industrial-workers-map.jpg" alt="Industrial Workers Map 1927" style="max-width:100%; height:auto;">
     <p><em>Distribution of industrial workers in Turkey in 1927 (Preliminary).</em></p>
   </div>
   <div style="flex:2;">
