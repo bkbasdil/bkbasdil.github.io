@@ -17,11 +17,11 @@ The research consists of two essays. The first investigates whether uneven indus
 
 <!-- Image -->
 <div style="overflow:hidden; border-radius:6px; margin: 30px 0;">
-  <img src="/images/gap-screenshot.png" 
-       alt="GAP Master Plan" 
+  <img src="/images/turkey-night-light.jpeg" 
+       alt="District-Level Distribution of Night Lights, 1992" 
        style="width:100%; height:300px; object-fit:cover; object-position:center;">
   <p style="font-size:0.9em; margin-top:5px; text-align:center;"><em>
-    Master plan for the GAP Project.
+    District-Level Distribution of Night Lights, 1992.
   </em></p>
 </div>
 
