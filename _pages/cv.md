@@ -14,16 +14,14 @@ Education
 * **M.A. in Economics**, Toulouse School of Economics, 2023
 * **B.A. in Economics**, Bogazici University, 2021
 
-Publications
-======
+Research Interests
+=====
+* Economic development
+* Industrialization
+* Economic history
+* Political economy
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-
-Academic Experience
+Research Experience
 ======
 * **Industrial Location in Turkey, 1927–2020**
   * Co-Author — Gunes Asik, Alpay Filiztekin, Ulas Karakoc (Dormant, 2025)
@@ -50,10 +48,9 @@ Professional Experience
   
 Miscellaneous
 ======
-* **Methods:** Instrumental Variables, Panel Models, Limited Dependent Variables, Machine Learning 
+* **Methods:** Instrumental Variables, Panel Models, Limited Dependent Variables, Machine Learning...
 * **Tools:** R, STATA, Python, SQL, LaTeX 
 * **Languages:** Turkish (native), English (fluent)
-* **Research Interests:** Regional development, industrialization, political economy
 * **Examinations:** TOEFL: 114/120 (R: 27, L: 29, S: 28, W: 30) GRE: 161 Verbal, 162 Quant, 5.0 AW
 
 
