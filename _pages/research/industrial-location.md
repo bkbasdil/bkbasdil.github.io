@@ -10,17 +10,17 @@ with Gunes Asik, Alpay Filiztekin, and Ulas Karakoc
 </h3>
 
 <!-- First image + paragraph -->
-<div style="display:flex; align-items:flex-start; gap:20px; margin-bottom:30px;">
-  <div style="flex:1; max-width:40%; overflow:hidden; border-radius:6px;">
+<div style="display:flex; align-items:flex-start; gap:30px; margin-bottom:40px;">
+  <div style="flex:1.2; overflow:hidden; border-radius:6px;">
     <img src="/images/soil-products-office.jpg" 
          alt="Soil Products Office" 
-         style="width:100%; height:250px; object-fit:cover; object-position:center;">
-    <p style="font-size:0.9em; margin-top:5px;"><em>
+         style="width:100%; height:300px; object-fit:cover; object-position:center;">
+    <p style="font-size:0.9em; margin-top:5px; text-align:center;"><em>
       Soil Products Office, near Port Haydarpaşa, Istanbul.<br>
       Photo credit: Baris Kaan Basdil.
     </em></p>
   </div>
-  <div style="flex:2; line-height:1.6;">
+  <div style="flex:1.8; line-height:1.6;">
     <p>
       <em>"...near things are more related than distant things"</em> – from Tobler's first law of geography.
     </p>
@@ -41,16 +41,16 @@ with Gunes Asik, Alpay Filiztekin, and Ulas Karakoc
 </div>
 
 <!-- Second image + paragraph -->
-<div style="display:flex; align-items:flex-start; gap:20px;">
-  <div style="flex:1; max-width:40%; overflow:hidden; border-radius:6px;">
+<div style="display:flex; align-items:flex-start; gap:30px;">
+  <div style="flex:1.2; border-radius:6px;">
     <img src="/images/industrial-workers-map.jpeg" 
          alt="Industrial Workers Map 1927" 
-         style="width:100%; height:250px; object-fit:cover; object-position:center;">
-    <p style="font-size:0.9em; margin-top:5px;"><em>
+         style="width:100%; height:300px; object-fit:contain; object-position:center; background:#f9f9f9;">
+    <p style="font-size:0.9em; margin-top:5px; text-align:center;"><em>
       Distribution of industrial workers in Turkey in 1927 (Preliminary).
     </em></p>
   </div>
-  <div style="flex:2; line-height:1.6;">
+  <div style="flex:1.8; line-height:1.6;">
     <p>
       <strong>Here is a glimpse of what we are trying to understand</strong>. The graph on the left illustrates 
       the distribution of (log1p-transformed) industrial establishments in Turkey. The immediate observation, 
