@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h3 style="margin-top:-10px; font-weight:normal; color:#555;">
-with Gunes Asik, Alpay Filiztekin, and Ulas Karakoc
+<em>with Gunes Asik, Alpay Filiztekin, and Ulas Karakoc</em>
 </h3>
 
 <!-- First image + paragraph -->
