@@ -12,12 +12,16 @@ This project examines the <strong>economic roots of ethnic tensions in Turkey</s
 
 <!-- Research questions / essay novelties -->
 <p>
-The research consists of two essays. The first investigates whether uneven industrial development in 1980 – four years before the onset of insurgency – contributed to anti-establishment voting in Eastern Turkey. The second evaluates the impact of the <em>Güneydoğu Anadolu Projesi</em> (Southeastern Anatolia Project), a massive infrastructure initiative announced in 1989, on local income (using night lights) and political outcomes between 1992 and 2023.
+The first essay will examine the district-level distribution of industrial activity in Turkey in 1980, four years before the beginning of the Kurdish insurgency, and nine years before the announcement of the Project's master plan. The essay will then associate anti-establishment voting in Eastern Turkey with various measures of economic inequality. This will be the first district-level analysis of the economic roots of the Kurdish Question, and contributes to the empirical literature on the causes of ethnic conflict. The results of this analysis will be suggestive regarding understanding causes of ethnic tensions in developing countries and allow a more informed policy design aiming at mediating ethnic conflict.
+</p>
+
+<p>
+The second essay aims at measuring the impact of the Project on district-level per capita income and anti-establishment voting. To this end, the second essay will generate estimates of district-level per capita income using night light data, and measure the impact of the Project on district-level per capita income and anti-establishment vote. This will be the first analysis of the impact of the Project, both in terms of welfare effects and political effects. The estimates of these two effects, the economic effect and the political effect, will be informative regarding the longevity of the insurgency and what policies to be prioritized. This analysis will contribute to the empirical literature on economic interventions aimed at mediating ethnic conflict and civil war, as well as the literature on nation building policies. 
 </p>
 
 <!-- Image -->
 <div style="overflow:hidden; border-radius:6px; margin: 30px 0;">
-  <img src="/images/themes/turkey-night-light.jpeg" 
+  <img src="/images/themes/turkey-night-lights.jpeg" 
        alt="District-Level Distribution of Night Lights, 1992" 
        style="width:100%; height:300px; object-fit:cover; object-position:center;">
   <p style="font-size:0.9em; margin-top:5px; text-align:center;"><em>
