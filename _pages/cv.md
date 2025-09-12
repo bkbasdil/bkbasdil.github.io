@@ -18,7 +18,6 @@ Research Interests
 =====
 * Economic development
 * Industrialization
-* Economic history
 * Political economy
 
 Research Experience
