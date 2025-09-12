@@ -1,5 +1,5 @@
 ---
-title: "Industrial Location in Turkey"
+title: "Industrial Location in Turkey, 1927-2020: Endowments, Market Access, and Policies"
 permalink: /research/industrial-location/
 layout: single
 author_profile: true
