@@ -1,6 +1,6 @@
 ---
 title: "A Model of Strategic Dynamic Competitive Advantage"
-permalink: /research/strategic-competitive-advantage/
+permalink: /research/industrial-policy/
 layout: single
 author_profile: true
 ---
