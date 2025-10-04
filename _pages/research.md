@@ -11,5 +11,5 @@ Welcome to my research section. Here you can find my projects:
 
 **Dormant Projects:**
 - [**Industrial Location in Turkey, 1927-2020: Endowments, Market Access, and Policies**](/research/industrial-location/)
-- [**A Model of Strategic Dynamic Competitive Advantage**](/research/industrial-policy/)
+- [**A Model of Strategic Dynamic Comparative Advantage**](/research/industrial-policy/)
 
