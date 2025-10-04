@@ -28,7 +28,7 @@ Research Experience
   * Conducted preliminary spatial analysis (e.g., Moran's I, beta convergence)
   * Built structural entry models using city characteristics
  
-* **A Model of Strategic Dynamic Competitive Advantage**
+* **A Model of Strategic Dynamic Comparative Advantage**
   * Unpublished Manuscript (Dormant, 2025)
   * Built a dynamic game-theoretic model of industrial policy under strategic rivalry.
   * Modeled belief-based policy targeting, firm relocation, and export payoff dynamics.
