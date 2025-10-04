@@ -1,5 +1,5 @@
 ---
-title: "A Model of Strategic Dynamic Competitive Advantage"
+title: "A Model of Strategic Dynamic Comparative Advantage"
 permalink: /research/industrial-policy/
 layout: single
 author_profile: true
