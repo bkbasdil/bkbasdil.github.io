@@ -27,6 +27,13 @@ Research Experience
   * Digitized and cleaned archival city-level data on Turkish industrial establishments
   * Conducted preliminary spatial analysis (e.g., Moran's I, beta convergence)
   * Built structural entry models using city characteristics
+ 
+* **A Model of Strategic Dynamic Competitive Advantage**
+  * Unpublished Manuscript (Dormant, 2025)
+  * Built a dynamic game-theoretic model of industrial policy under strategic rivalry.
+  * Modeled belief-based policy targeting, firm relocation, and export payoff dynamics.
+  * Characterized equilibrium as a Markov Perfect Equilibrium driven by cost structures.
+
 
 * [**Regional Inequalities and the West–East Divide in Turkey Since 1913**](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13245)
   * Research Assistant — Gunes Asik, Ulas Karakoc, Sevket Pamuk (Economic History Review) (2021)
