@@ -32,12 +32,11 @@ Research Experience
   * Conducted preliminary spatial analysis (e.g., Moran's I, beta convergence)
   * Built structural entry models using city characteristics
  
-* **A Model of Strategic Dynamic Comparative Advantage**
+* **Endogenous Industrial Policy and Dynamic Export Competitiveness**
   * Unpublished Manuscript (Dormant, 2025)
-  * Built a dynamic game-theoretic model of industrial policy under strategic rivalry.
-  * Modeled belief-based policy targeting, firm relocation, and export payoff dynamics.
-  * Characterized equilibrium as a Markov Perfect Equilibrium driven by cost structures.
-
+  * Develops a dynamic game-theoretic model of industrial policy under strategic international rivalry.
+  * Models endogenous sectoral targeting with stochastic policy implementation and intersectoral trade-offs via a zero-budget constraint.
+  * Characterizes policy choices and export specialization as a Markov Perfect Equilibrium driven by relative cost structures, state capacity, and intertemporal incentives.
 
 * [**Regional Inequalities and the West–East Divide in Turkey Since 1913**](https://onlinelibrary.wiley.com/doi/10.1111/ehr.13245)
   * Research Assistant — Gunes Asik, Ulas Karakoc, Sevket Pamuk (Economic History Review) (2021)
