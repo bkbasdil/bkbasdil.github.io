@@ -5,14 +5,6 @@ layout: single
 author_profile: true
 ---
 
-<h3 style="margin-top:-10px; font-weight:normal; color:#555;">
-<em>Baris Kaan Basdil</em>
-</h3>
-
-<h3 style="margin-top:-10px; font-weight:normal; color:#555;">
-<em>Baris Kaan Basdil</em>
-</h3>
-
 ## Motivations: Industrial Policy and Strategic Competition
 
 This research introduces a **dynamic game-theoretic model** to study how **governments strategically use industrial policy (IP) to build export competitiveness** under international rivalry and policy uncertainty.
