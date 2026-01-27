@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-**You can find the PDF version of my academic CV [here](https://drive.google.com/file/d/1b2TkvHKXg738yCmuv7Jw5Nolv03vYtv7/view?usp=sharing).**
-
 <hr>
 
 Education
