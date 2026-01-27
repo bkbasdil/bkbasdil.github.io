@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<hr>
-
 Education
 ======
 * **M.A. in Economics**, Toulouse School of Economics, 2023
